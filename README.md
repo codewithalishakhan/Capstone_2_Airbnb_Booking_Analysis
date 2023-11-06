@@ -7,10 +7,13 @@ This dataset focuses on Airbnb's extensive dataset since 2008, covering 48,895 o
 </p>
 
 <h1>Analysis</h1>
+I perform Handling Missing Data, Cleaning Data,Data Transformation,Data Filtering, and Categorical Variables.
 
 
-## Prior Knowledge
-![language](https://img.shields.io/badge/language-%23013243.svg?style=flat&logo=language&logoColor=white) ![python](https://img.shields.io/badge/Python-%2300f.svg?style=flat&logo=Python&logoColor=white) ![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-%23013243.svg?style=flat&logo=Microsoft_Excel&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-%23013243.svg?style=flat&logo=matplotlib&logoColor=orange) ![seaborn](https://img.shields.io/badge/seaborn-%23013243.svg?style=flat&logo=seaborn&logoColor=white) ![jupyter_notebook](https://img.shields.io/badge/jupyter_notebook-%23013243.svg?style=flat&logo=jupyter_notebook&logoColor=white)
+
+<h1>Requirements</h1>
+
+![language](https://img.shields.io/badge/language-%23013243.svg?style=flat&logo=language&logoColor=white) ![python](https://img.shields.io/badge/Python-%2300f.svg?style=flat&logo=Python&logoColor=white) ![Microsoft_Excel](https://img.shields.io/badge/Microsoft_Excel-%23013243.svg?style=flat&logo=Microsoft_Excel&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![matplotlib](https://img.shields.io/badge/matplotlib-%23013243.svg?style=flat&logo=matplotlib&logoColor=orange) ![seaborn](https://img.shields.io/badge/seaborn-%23013243.svg?style=flat&logo=seaborn&logoColor=white)
  ![GoogleColab](https://img.shields.io/badge/GoogleColab-%23013243.svg?style=flat&logo=GoogleColab&logoColor=white)
 
 
